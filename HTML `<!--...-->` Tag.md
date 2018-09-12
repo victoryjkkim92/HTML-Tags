@@ -21,7 +21,7 @@ You can use comments to explain your code, which can help you when you edit the 
 
 <span style="color: red">reference</span> : [checkingbrowse support and others](https://www.w3schools.com/tags/tag_comment.asp)
 
--
+
 
 # HTML <!DOCTYPE> Declaration
 
@@ -62,7 +62,7 @@ HTML5 is not based on SGML, and therefore does not require a reference to a DTD.
 
 **Tip**: Always add the <!DOCTYPE> declaration to your HTML documents, so that the browser knows what type of document to expect.
 
--
+
 
 # HTML `<a>` Tag
 
@@ -85,7 +85,7 @@ By default, links will appear as follows in all browsers:
 
 <span style="color: red">reference</span> : [checkingbrowse support and others](https://www.w3schools.com/tags/tag_a.asp)
 
--
+
 
 # HTML `<abbr>` Tag
 
@@ -101,7 +101,7 @@ Marking up abbreviations can give useful information to browsers, translation sy
 <span style="color: red">reference</span> : [checkingbrowse support and others](https://www.w3schools.com/tags/tag_abbr.asp)
 
 
--
+
 
 # HTML `<acronym>` Tag. <span style="color: red">Not Supported in HTML5**</span>
 
