@@ -11,7 +11,7 @@ HTML is the standard markup language for creating Web pages.
 * HTML tags label pieces of content such as "heading", "paragraph", "table", and so on
 * Browsers do not display the HTML tags, but use them to render the content of the page
 
--
+
 
 ### A Simple HTML Document
 
@@ -42,10 +42,6 @@ HTML is the standard markup language for creating Web pages.
 * The `<h1>` element defines a large heading
 * The `<p>` element defines a paragraph
 
-
--
-
-
 ## HTML Tags
 
 HTML tags are element names surrounded by angle brackets:
@@ -60,16 +56,12 @@ HTML tags are element names surrounded by angle brackets:
 
 >tip: The start tag is also called the **opening tag**, and the end tag the **closing tag**
 
--
-
 ## Web Browsers
 The purpose of a web browser (Chrome, IE, Firefox, Safari) is to read HTML documents and display them.
 
 The browser does not display the HTML tags, but uses them to determine how to display the document:
 
 ![Alt text](images/img_chrome.png)
-
--
 
 ## HTML Page Structure
 
@@ -78,8 +70,6 @@ Below is a visualization of an HTML page structure:
 ![Alt text](images/html_page_structure.png)
 
 > **Note **: Only the content inside the <body> section (the white area above) is displayed in a browser.
-
--
 
 ## The <!DOCTYPE> Declaration
 
@@ -93,8 +83,6 @@ The `<!DOCTYPE>` declaration is not case sensitive.
 The `<!DOCTYPE>` declaration for HTML5 is:
 
 >`<!DOCTYPE html>`
-
--
 
 ## HTML Versions
 
